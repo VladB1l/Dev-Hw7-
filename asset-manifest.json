@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.ccc7cdc4.css",
-    "main.js": "/static/js/main.3c300c47.js",
-    "static/media/Detective-check-footprint.svg": "/static/media/Detective-check-footprint.47d66b4b46ff01766672.svg",
-    "index.html": "/index.html",
-    "main.ccc7cdc4.css.map": "/static/css/main.ccc7cdc4.css.map",
-    "main.3c300c47.js.map": "/static/js/main.3c300c47.js.map"
+    "main.css": "/Dev-Hw7-/static/css/main.125e14cd.css",
+    "main.js": "/Dev-Hw7-/static/js/main.3c300c47.js",
+    "static/media/Detective-check-footprint.svg": "/Dev-Hw7-/static/media/Detective-check-footprint.b57174d4714eb8d72d7f.svg",
+    "index.html": "/Dev-Hw7-/index.html",
+    "main.125e14cd.css.map": "/Dev-Hw7-/static/css/main.125e14cd.css.map",
+    "main.3c300c47.js.map": "/Dev-Hw7-/static/js/main.3c300c47.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccc7cdc4.css",
+    "static/css/main.125e14cd.css",
     "static/js/main.3c300c47.js"
   ]
 }
